@@ -28,7 +28,7 @@
     "Microsoft.Framework.Logging.Debug" : "1.0.0-beta8",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-beta8",
 
-    "MarkdownSharp": "1.13.0"
+    "CommonMark.Net": "0.10.0"
   },
 
   "commands": {
@@ -37,7 +37,8 @@
   },
 
   "frameworks": {
-    "dnx451": { }
+    "dnx451": { },
+    "dnxcore50": { }
   },
 
   "exclude": [
